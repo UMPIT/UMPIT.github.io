@@ -7,7 +7,7 @@ section {
 .biodata,
 .motivasi,
 .testimoni {
-  background: linear-gradient(to right, blueviolet, indigo);
+  background: linear-gradient(to right, rgb(208, 226, 43), rgb(230, 226, 36));
 }
 
 /* Judul Jumbotron */
